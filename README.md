@@ -26,13 +26,22 @@ Spelaren kommer få möta 4 bossar.Alla är de svarta hål med olika styrkor:
 
     De behöver såklart inte vara så många, kunde inte välja. De kanske ska ha samma egenskaper för att underlätta det lite?
 
-    I shopen kan man köpa
-    bakispotion
+
+     # I shopen kan man köpa
+
+     bakispotion
+
     eldstav
+
     boxningshandske
+
     mat - liv
 
-    Menyn
+
+    # Menyn
+
     shop - Ska man ha detta? Kan man redan i början kunna köpa vapen och liv?
+
     Välj spelare
+
     Avsluta spel
