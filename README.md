@@ -3,7 +3,7 @@ projekt spel
 ## Äventyrsspel
 ##
 Skapa ett äventyrsspel som utspelar sig i en skog. Spelarens uppgift är att samla planeter som ligger gömda i skogen. Planeterna är de som finns i vårt solsystem.
-Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus. Vet inte om man borde ha med Pluto.....?
+Merkurius, Venus, Jorden, Mars, Jupiter, Saturnus, Uranus, Neptunus och Pluto. Det blir 9 levels. Sista Leveln 10  kan vara att ta kol på sista bossen
 ##
 Spelaren kommer få möta 4 bossar.Alla är de svarta hål med olika styrkor:
 
